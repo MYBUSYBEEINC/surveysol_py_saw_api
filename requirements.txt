@@ -1,5 +1,5 @@
 pydantic>=1.7.2
-requests>=2.23.0
+requests>=2.32.4
 sgqlc>=11.0
 typing-extensions>=3.7.4.3
 
